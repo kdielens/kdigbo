@@ -1,5 +1,1 @@
-Haha, ik heb het weggesmeten
-
-... enkel toegevoegd in branch takje ...
-
-dit is een takje wijziging
+Deze heb ik gewijzigd voor mijn branch kdi
